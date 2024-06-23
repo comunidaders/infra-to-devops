@@ -26,7 +26,7 @@ Este plano de aulas tem como objetivo fornecer uma introdução prática e teór
 
 ### Sessão Prática
 - **Configuração de Ambiente**
-  - Instalação de ferramentas básicas: Git, Docker, Kubernetes (minikube ou Kind)
+  - Instalação de ferramentas básicas: Git, Docker, Kubernetes (k3d)
   - Configuração de repositório Git para o curso
 
 ### Atividade

@@ -48,7 +48,7 @@ Este plano de aulas tem como objetivo fornecer uma introdução prática e teór
   - Criar e executar um contêiner Docker
   - Criar um Dockerfile simples
 - **Kubernetes**
-  - Deploy de um aplicativo simples no Kubernetes (usando minikube ou Kind)
+  - Deploy de um aplicativo simples no Kubernetes (k3d)
 
 ### Atividade
 - Criar um Dockerfile e executar uma aplicação em Kubernetes.

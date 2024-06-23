@@ -149,10 +149,6 @@ Este plano de aulas tem como objetivo fornecer uma introdução prática e teór
   - "The DevOps Handbook" - Gene Kim, Patrick Debois, John Willis, Jez Humble
   - "Site Reliability Engineering" - Niall Richard Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff
 
-- **Cursos Online:**
-  - **Udemy:** Cursos sobre Docker, Kubernetes, CI/CD
-  - **Coursera:** Especializações em DevOps e SRE
-  - **Pluralsight:** Vídeos sobre práticas de DevOps
 
 - **Blogs e Artigos:**
   - **DevOps.com**
